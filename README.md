@@ -3,21 +3,21 @@ this is a technical task from РСТ-ТУР, a piece of real project
 
 ### Stack:
 
-      Kotlin
+   - Kotlin
 
-      MVVM
+   - MVVM
   
-      Rertofit
+   - Rertofit
   
-      Hilt (for dependency injection)
+   - Hilt (for dependency injection)
   
-      Kotlin Coroutines
+   - Kotlin Coroutines
   
-      Flows
+   - Flows
   
-      Clean Architecture
+   - Clean Architecture
   
-      Jetpack Compose
+   - Jetpack Compose
 
 ### Previews 
 
